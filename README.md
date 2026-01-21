@@ -1,6 +1,6 @@
-# Club-Management
+# Club-Manager
 
-Club-Management is a simple, extensible application to help sports clubs, student organizations, and social groups manage memberships, events, and administration. This repository provides a starting point for creating clubs, registering members, planning events, and generating basic reports.
+Club-Manager is a simple, extensible application to help sports clubs, student organizations, and social groups manage memberships, events, and administration. This repository provides a starting point for creating clubs, registering members, planning events, and generating basic reports.
 
 ## Features
 - Create and manage clubs
